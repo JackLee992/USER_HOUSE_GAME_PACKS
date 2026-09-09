@@ -6,7 +6,7 @@
 
 ## 最新内容
 
-[游戏内容 1.3.2（content-8）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-8) 升级泡泡龙 1.0.2：重新生成六色球，加入爱心、菱形、三角、星形、月牙、十字以辅助辨认，并放大当前球和下一颗预览。图片不可用时保留相同形状线索。从资源 1.3.1 仅下载泡泡龙游戏与专属美术两个包，共 1,877,422 字节（约 1.79 MiB），其余 79 包复用，APK 无需更新。
+[游戏内容 1.3.3（content-9）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-9) 升级泡泡龙 1.0.3：按反馈去掉中心符号与厚重玻璃高光，采用六种差异化颜色和简洁完整圆球；当前球与下一颗预览保持清晰。图片不可用时仍是同一套纯色圆球。从资源 1.3.2 仅下载游戏与专属美术两个包，共 1,686,563 字节（约 1.61 MiB），其余 79 包复用，APK 无需更新。HONOR 真机与 Android 模拟器原生更新、换球发射、暂停保护、冷启动续局和存档恢复均已通过。
 
 [泡泡龙新旧素材对比与实测](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/bubble-visibility-upgrade.md)
 
