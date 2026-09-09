@@ -6,9 +6,11 @@
 
 ## 最新内容
 
-[游戏内容 1.3.1（content-7）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-7) 升级数独 1.1.0：经典全屏界面、候选笔记、撤销/重做、提示说明、四档唯一解新题与五语支持。祖玛 1.1.2 接入共享 WebGL 资源管理。从 content-5 仅需下载约 529 KiB 的变化包，APK 可保持现有版本。1.3.1 同时修复更新已完成但首页偶尔仍显示“正在切换”的状态问题；从1.3.0只需更新共享core包。
+[游戏内容 1.3.2（content-8）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-8) 升级泡泡龙 1.0.2：重新生成六色球，加入爱心、菱形、三角、星形、月牙、十字以辅助辨认，并放大当前球和下一颗预览。图片不可用时保留相同形状线索。从资源 1.3.1 仅下载泡泡龙游戏与专属美术两个包，共 1,877,422 字节（约 1.79 MiB），其余 79 包复用，APK 无需更新。
 
-[竞品对标与实测截图](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/sudoku-product-upgrade.md)
+[泡泡龙新旧素材对比与实测](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/bubble-visibility-upgrade.md)
+
+此前的数独 1.1.0 经典全屏界面、笔记、撤销/重做、提示、四档唯一解新题与五语支持，以及祖玛 1.1.2 的共享 WebGL 资源管理均保留；内容更新后的首页状态修复也已包含。[数独竞品对标与实测截图](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/sudoku-product-upgrade.md)
 
 ## 版本与产物
 
