@@ -1,0 +1,115 @@
+{
+  "verifiedAt": "2026-09-09T11:11:24.717Z",
+  "release": {
+    "tag": "content-10",
+    "snapshotVersion": "1.4.0",
+    "sourceCommit": "8d0d40f2387c3a062a697b93f4026562fc8ee02e",
+    "url": "https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-10",
+    "latest": true,
+    "draft": false,
+    "prerelease": false,
+    "immutable": true,
+    "publishedAt": "2026-09-09T11:07:04Z"
+  },
+  "publicDownloads": {
+    "unauthenticated": true,
+    "signatureVerifiedWithRepositoryPublicKey": true,
+    "manifestMatchesSignedPayload": true,
+    "files": {
+      "channel.json": {
+        "sha256": "636333444b89c04bad12a0a05e1c3cc7b1b3fad1eadae7ec8c52d6a4114ed3b9",
+        "size": 76385,
+        "localR2ExactMatch": true
+      },
+      "manifest.json": {
+        "sha256": "b3ae5a6c150d2b63110b1c7a512fc58722b2291b73e0ac7a0843a49d152ca114",
+        "size": 78613,
+        "localR2ExactMatch": true
+      }
+    }
+  },
+  "actions": {
+    "conclusion": "success",
+    "createdAt": "2026-09-09T11:07:05Z",
+    "event": "release",
+    "headSha": "f6af5512e7eacd3b5ccb0ab53b3b5bc488f42de0",
+    "status": "completed",
+    "updatedAt": "2026-09-09T11:07:28Z",
+    "url": "https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/actions/runs/34343845926",
+    "workflow": ".github/workflows/verify-release.yml",
+    "packagesVerified": 81,
+    "archiveBytesVerified": 56901506,
+    "allPackageIdsAndVersionsMatchManifest": true
+  },
+  "catalog": {
+    "games": 37,
+    "packages": 81,
+    "files": 239,
+    "changedPackages": 8,
+    "changedArchiveBytes": 537804,
+    "reusedPackages": 73
+  },
+  "publishedAssets": [
+    {
+      "name": "channel.json",
+      "size": 76385,
+      "sha256": "636333444b89c04bad12a0a05e1c3cc7b1b3fad1eadae7ec8c52d6a4114ed3b9",
+      "githubDigestMatchesR2": true
+    },
+    {
+      "name": "core-1.3.0.zip",
+      "size": 436790,
+      "sha256": "06f0c6e3cbe068d9d000cd456381668bb6b94fdc1c66e92aa05e2545373e4621",
+      "githubDigestMatchesR2": true
+    },
+    {
+      "name": "game.snake-1.1.0.zip",
+      "size": 14581,
+      "sha256": "32a3c3bd2718f3a5aa232c3edd7f01bd23e5ab76289e33c3fe54c7661cac427a",
+      "githubDigestMatchesR2": true
+    },
+    {
+      "name": "game.tetris-1.1.0.zip",
+      "size": 15857,
+      "sha256": "eaed266c233ee37d94ac3b4a3abedccb6ecd5e64f0163954611e59a8bad1af7a",
+      "githubDigestMatchesR2": true
+    },
+    {
+      "name": "i18n.en-1.0.4.zip",
+      "size": 13936,
+      "sha256": "711ffd8992929f722983eea0df1b64d2de830cc07c8f438a989ef78b07358361",
+      "githubDigestMatchesR2": true
+    },
+    {
+      "name": "i18n.ja-1.0.4.zip",
+      "size": 14231,
+      "sha256": "597664f62e65ce0b16bdff8c72cd878bf620efe077992770099bc9246a7d09a9",
+      "githubDigestMatchesR2": true
+    },
+    {
+      "name": "i18n.ko-1.0.4.zip",
+      "size": 14384,
+      "sha256": "d301d3992609fe910accff76759a079b34af4e95e22280aec3a555728c87d37f",
+      "githubDigestMatchesR2": true
+    },
+    {
+      "name": "i18n.zh-CN-1.0.4.zip",
+      "size": 13133,
+      "sha256": "7aadd4023d51538a20096fd1077db02129564439490ac1f10922bb74c925bdb8",
+      "githubDigestMatchesR2": true
+    },
+    {
+      "name": "i18n.zh-TW-1.0.4.zip",
+      "size": 14892,
+      "sha256": "9fe9c11b63a315fd0676956ade037488756479ed9a0b3351c9af1b598e9859bd",
+      "githubDigestMatchesR2": true
+    },
+    {
+      "name": "manifest.json",
+      "size": 78613,
+      "sha256": "b3ae5a6c150d2b63110b1c7a512fc58722b2291b73e0ac7a0843a49d152ca114",
+      "githubDigestMatchesR2": true
+    }
+  ],
+  "scope": "Publication, pinned P-256 signature and all archive hashes. Device gameplay and local save restoration are covered separately by Android source repository validation."
+}

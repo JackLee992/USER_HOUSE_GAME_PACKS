@@ -2,11 +2,17 @@
 
 这个仓库发布 Android App 使用的游戏代码、美术和语言资源。App 安装包和原生内核独立维护在 [USER_HOUSE_ANDROID](https://github.com/JackLee992/USER_HOUSE_ANDROID)。
 
-用户在玩吧 1.2.0 或更新版本的游戏列表下拉刷新，或点击“检查更新”，查看新增内容后下载。下载完成后在首页安装，当前存档继续保留。无需卸载 App，也无需 GitHub 登录。
+用户在玩吧 1.2.0 或更新版本的游戏列表/设置检查更新，查看新增内容后下载并安装，当前存档继续保留。App 1.3.0 进入原生首页时会自动检查，有更新才弹窗，下载与安装仍由用户选择。无需卸载 App，也无需 GitHub 登录。
 
 ## 最新内容
 
-[游戏内容 1.3.3（content-9）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-9) 升级泡泡龙 1.0.3：按反馈去掉中心符号与厚重玻璃高光，采用六种差异化颜色和简洁完整圆球；当前球与下一颗预览保持清晰。图片不可用时仍是同一套纯色圆球。从资源 1.3.2 仅下载游戏与专属美术两个包，共 1,686,563 字节（约 1.61 MiB），其余 79 包复用，APK 无需更新。HONOR 真机与 Android 模拟器原生更新、换球发射、暂停保护、冷启动续局和存档恢复均已通过。
+[游戏内容 1.4.0（content-10）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-10) 新增贪吃蛇 1.1.0 离线 AI 竞技场、摇杆/加速/限时模式，以及俄罗斯方块 1.1.0 的离线 AI 对战、暂存、预览、硬降、垃圾行、马拉松和 40 行冲刺。两款游戏保留经典模式与旧存档。共享首页加入收藏、我的和排序，五语言同步更新；原生首页、透明 Tab 和自动弹窗需要升级 App 1.3.0。
+
+从 content-9 仅下载 8 个变化包，共 537,804 字节（约 525 KiB），其余 73 包复用。37 款游戏和 81 个独立资源包保持完整。Android / iOS 模拟器、真机已测范围与未测边界见 [跨端验收](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/mobile-1.3-validation.md)。
+
+[发布后的 81 包验签与摘要检查已通过](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/actions/runs/34343845926)；公开清单与发行前 r2 产物逐字节一致，详见 [公开校验记录](docs/evidence/content-10-published-validation.json)。
+
+此前 [content-9](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-9) 的泡泡龙 1.0.3 简洁纯色圆球仍保留：去掉中心符号与厚重玻璃高光，使用六种差异化颜色，当前球和下一颗预览保持清晰。
 
 [泡泡龙新旧素材对比与实测](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/bubble-visibility-upgrade.md)
 
