@@ -6,7 +6,7 @@
 
 ## 最新内容
 
-[游戏内容 1.3.0（content-6）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-6) 升级数独 1.1.0：经典全屏界面、候选笔记、撤销/重做、提示说明、四档唯一解新题与五语支持。祖玛 1.1.2 接入共享 WebGL 资源管理。从 content-5 仅需下载约 529 KiB 的变化包，APK 可保持现有版本。
+[游戏内容 1.3.1（content-7）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-7) 升级数独 1.1.0：经典全屏界面、候选笔记、撤销/重做、提示说明、四档唯一解新题与五语支持。祖玛 1.1.2 接入共享 WebGL 资源管理。从 content-5 仅需下载约 529 KiB 的变化包，APK 可保持现有版本。1.3.1 同时修复更新已完成但首页偶尔仍显示“正在切换”的状态问题；从1.3.0只需更新共享core包。
 
 [竞品对标与实测截图](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/sudoku-product-upgrade.md)
 
