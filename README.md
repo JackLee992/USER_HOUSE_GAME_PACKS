@@ -6,17 +6,13 @@
 
 ## 最新内容
 
-[游戏内容 1.4.0（content-10）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-10) 新增贪吃蛇 1.1.0 离线 AI 竞技场、摇杆/加速/限时模式，以及俄罗斯方块 1.1.0 的离线 AI 对战、暂存、预览、硬降、垃圾行、马拉松和 40 行冲刺。两款游戏保留经典模式与旧存档。共享首页加入收藏、我的和排序，五语言同步更新；原生首页、透明 Tab 和自动弹窗需要升级 App 1.3.0。
+[游戏内容 1.6.7（content-20）](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-20) 将“拧螺丝”恢复为我们最初 fork 基线的原始实现，并继续把后续扩展版作为独立的“疯狂拧螺丝”提供。原版恢复普通模式的 42–47 块分层板件、无尽模式的 28–32 块持续补层，以及原始托盘、工具盒、遮挡、悬挂、重力、图标和画面样式；两款游戏的代码、素材与存档互不影响。
 
-从 content-9 仅下载 8 个变化包，共 537,804 字节（约 525 KiB），其余 73 包复用。37 款游戏和 81 个独立资源包保持完整。Android / iOS 模拟器、真机已测范围与未测边界见 [跨端验收](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/mobile-1.3-validation.md)。
+从 content-19 仅下载 `game.screwclassic`、`art.screwclassic` 和 `core` 三个变化包，共 635,154 字节，其余 80 包直接复用。当前快照包含 38 款游戏和 83 个独立资源包，可在玩吧内检查并安装，无需升级或卸载 App。
 
-[发布后的 81 包验签与摘要检查已通过](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/actions/runs/34343845926)；公开清单与发行前 r2 产物逐字节一致，详见 [公开校验记录](docs/evidence/content-10-published-validation.json)。
+[发布后的 83 包验签与摘要检查已通过](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/actions/runs/34758199089)；发行使用 GitHub immutable release，公开 `channel.json` 的 SHA-256 为 `1c7507c8ccd9fe5b24bc27baccd911d3bff2daa3856778270aadfa39a9d8c349`。
 
-此前 [content-9](https://github.com/JackLee992/USER_HOUSE_GAME_PACKS/releases/tag/content-9) 的泡泡龙 1.0.3 简洁纯色圆球仍保留：去掉中心符号与厚重玻璃高光，使用六种差异化颜色，当前球和下一颗预览保持清晰。
-
-[泡泡龙新旧素材对比与实测](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/bubble-visibility-upgrade.md)
-
-此前的数独 1.1.0 经典全屏界面、笔记、撤销/重做、提示、四档唯一解新题与五语支持，以及祖玛 1.1.2 的共享 WebGL 资源管理均保留；内容更新后的首页状态修复也已包含。[数独竞品对标与实测截图](https://github.com/JackLee992/USER_HOUSE_ANDROID/blob/main/docs/sudoku-product-upgrade.md)
+酒馆插件用户可安装或直接更新到 [玩伴小屋 3.15.2](https://github.com/JackLee992/USER_HOUSE/releases/tag/v3.15.2)，同样获得 fork 基线原版“拧螺丝”和独立的“疯狂拧螺丝”。
 
 ## 版本与产物
 
